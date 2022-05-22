@@ -22,7 +22,7 @@
   <a href = "mailto:julianaccarmem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-costa-642673181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](name: Generate Datas
+  ![Snake animation]name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -38,7 +38,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: rafaballerini
+          github_user_name: julianakrmem
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
@@ -46,6 +46,6 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }})
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
 </div>
