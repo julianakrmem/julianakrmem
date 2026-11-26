@@ -5,7 +5,7 @@
 Desenvolvedora front-end e estudante de **Medicina** (FAG – Faculdade Guarulhos) e de **Terapia Ocupacional** (UniFatecie).
 Gosto de juntar clínica, funcionalidade e tecnologia em ferramentas simples que ajudam quem atende e quem está aprendendo.
 
-- 🩺 Presidente da Liga Acadêmica de Ortopedia e Traumatologia, com foco em Ortopedia
+- 🩺 Presidente da Liga Acadêmica de Ortopedia e Traumatologia
 - 💻 Front-end com React, TypeScript e Next.js
 - 🌱 Construindo apps educativos de saúde, todos open source
 
